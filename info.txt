@@ -1,0 +1,1 @@
+This application will resize all of your images from the input folder and store them into the output folder. This application can also rename your pictures.
